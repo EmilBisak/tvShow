@@ -56,6 +56,9 @@ main .card {
   margin-bottom: 15px; }
   main .card a {
     font-weight: bold; }
+  main .card img.card-img-top {
+    max-height: 400px;
+    width: auto; }
 main .poster {
   width: 100%; }
 main .show-info {
